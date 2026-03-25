@@ -720,7 +720,7 @@ Operator Input (Natural Language)
       │
       ▼
 ┌─────────────────────────────────┐
-│  LLM Engine (GPT-4 / LLaMA-3)  │
+│  LLM Engine (GPT 5)  │
 │  + Telecom-Fine-Tuned Adapter   │
 └─────────────────────────────────┘
       │
@@ -825,7 +825,7 @@ sequenceDiagram
 
 ## 13. References
 
-> IEEE-style citations for all papers cited in this document.
+> IEEE citations for all papers cited in this document.
 
 ```
 [1]  M. Polese, L. Bonati, S. D'Oro, S. Basagni, T. Melodia,
