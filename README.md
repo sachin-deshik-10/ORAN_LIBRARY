@@ -14,9 +14,10 @@
   Covers mathematical foundations · algorithms · literature · datasets · open-source tools
 </p>
 
----
 
 ## 📑 Table of Contents
+
+# ![ORAN Logo](ORAN%20GitHub.png)
 
 1. [Introduction](#1-introduction)
 2. [O-RAN Architecture](#2-o-ran-architecture)
